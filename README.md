@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-
+<div>
     <div class="row">
         <div class="column">
             <div>
@@ -15,7 +15,6 @@
             </div>
         </div>
     </div>
-
     <div class="row">
         <div class="column">
             <div class="header">Back-End</div>
@@ -40,7 +39,6 @@
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) 
         </div>
     </div>
-
     <div class="row">
         <div class="column">
             <div class="header">Front-End</div>
@@ -70,7 +68,6 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
         </div>
     </div>
-
     <div class="row">
         <div class="column">
             <div class="header">Database</div>
@@ -90,7 +87,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
         </div>
     </div>
-
     <div class="row">
         <div class="column">
             <div class="header">Server</div>
@@ -128,7 +124,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
         </div>
     </div>
-
     <div class="row">
         <div class="column">
             <div>
@@ -139,7 +134,7 @@
             </div>
         </div>
     </div>
-
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S)
