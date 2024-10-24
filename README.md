@@ -103,7 +103,7 @@
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
-![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS)
+![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S)
 
 
 <!--  -->
