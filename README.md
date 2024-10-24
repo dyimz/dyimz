@@ -1,4 +1,6 @@
 # 💻 Tech Stack:
+![Hostinger Badge](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff&style=flat)
+
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
