@@ -1,4 +1,5 @@
-<img src="[https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white](https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)" /><br/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" style="width: 100%;" />
+
 
 # 💻 Tech Stack:
 |  |  |
