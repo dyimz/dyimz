@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" style="width: 100%;" />
 
 <h1 align="center">Hi 👋,  <a href="https://github.com/dyimz" target="blank">James Christian</a> here...</h1> 
-<h3 align="center">A passionate developer from Philippines <br/>
+<h3 align="center">Your Passionate Full Stack Developer from Philippines <br/>
   
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dyimz) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dyimz1324) 
