@@ -1,12 +1,15 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" style="width: 100%;" />
 
 <h1 align="center">Hi 👋,  <a href="https://github.com/dyimz" target="blank">James Christian</a> here...</h1> 
-<h3 align="center">A passionate developer from Philippines</h3>  
-
+<h3 align="center">A passionate developer from Philippines <br/>
+  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dyimz) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dyimz1324) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyimzkrizhan) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dyimz1324) 
+</h3>  
+
+
 
 <!-- <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=337EF7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+James+Christian;" alt="Typing SVG" /></a></div> -->
 
