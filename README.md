@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-<div style="width: 600px;">
+<div>
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" />
@@ -8,7 +8,7 @@
 </div>
 
 
-<div style="width:600px;">
+<div>
   Back-End:  <br/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
@@ -21,7 +21,7 @@
 </div>
 
 
-<div style="width: 600px;">
+<div>
   Front-End:  <br/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
@@ -39,7 +39,7 @@
 </div>
 
 
-<div style="width: 600px;">
+<div>
   Database:  <br/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
@@ -52,7 +52,7 @@
 </div>
 
 
-<div style="width: 600px;">
+<div>
   Server:  <br/>
   <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white" />
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl" />
 </div>
 
-<div style="width: 600px;">
+<div>
   Design:  <br/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
@@ -87,23 +87,23 @@
 </div>
 
 
-<div style="width: 600px;">
+<div>
   Adobe:  <br/>
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" /><br/>
 
+  <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366" /><br/>
 
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </div>
 
 
-<div style="width: 600px;">
+<div>
   GitHub:  <br/>
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
@@ -112,7 +112,7 @@
 </div>
 
 
-<div style="width: 600px;">
+<div>
   Others:  <br/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white" />
@@ -133,7 +133,7 @@
 </div>
 
 
-<div style="width: 600px;">
+<div>
   Social:  <br/>
   <a href="https://discord.gg/dyimz" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
@@ -151,14 +151,6 @@
 
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S" style="flex: 1; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyimz&theme=react&hide_border=true" style="flex: 1; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyimz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="flex: 1;" />
-</div>
-
-
-
 ![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dyimz&theme=react&hide_border=true)
