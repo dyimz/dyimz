@@ -151,6 +151,14 @@
 
 
 # 📊 GitHub Stats:
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S" style="flex: 1; margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyimz&theme=react&hide_border=true" style="flex: 1; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyimz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="flex: 1;" />
+</div>
+
+
+
 ![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dyimz&theme=react&hide_border=true)
