@@ -1,5 +1,4 @@
 # 💻 Tech Stack:
-
 <div class="container mt-4">
     <div class="row mb-3">
         <div class="col text-center">
@@ -12,8 +11,6 @@
 </div>
         </div>
     </div>
-
-    <!-- Back-End and Design Section -->
     <div class="row mb-3">
         <div class="col text-center">
 <div style="width:600px;">
@@ -42,8 +39,6 @@
 </div>
         </div>
     </div>
-
-    <!-- Front-End and Adobe Section -->
     <div class="row mb-3">
         <div class="col text-center">
 <div style="width: 600px;">
@@ -77,8 +72,6 @@
 </div>
         </div>
     </div>
-
-    <!-- Database and Github Section -->
     <div class="row mb-3">
         <div class="col text-center">
 <div style="width: 600px;">
@@ -102,8 +95,6 @@
 </div>
         </div>
     </div>
-
-    <!-- Server and Others Section -->
     <div class="row mb-3">
         <div class="col text-center">
 <div style="width: 600px;">
@@ -145,8 +136,6 @@
 </div>
         </div>
     </div>
-
-    <!-- Social Icons Section -->
     <div class="row mb-3">
         <div class="col text-center">
 <div style="width: 600px;">
