@@ -25,7 +25,7 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=dyimz&custom_title=Dyimz%20Contribution%20Graph&theme=react-dark)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dyimz&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
