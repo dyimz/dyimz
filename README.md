@@ -22,6 +22,9 @@
 <div align="center">
 <h3> Connect with me @ </h3>
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/)
+[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/dyimz)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:jameschristianvillamin@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dyimz) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dyimz1324) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyimzkrizhan) 
