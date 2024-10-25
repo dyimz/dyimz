@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋,  <a href="https://github.com/dyimz" target="blank">James Christian</a> here...</h1> 
 <h3 align="center">A passionate developer from Philippines</h3>  
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dyimz) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dyimz1324) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dyimzkrizhan) 
