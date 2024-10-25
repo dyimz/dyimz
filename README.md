@@ -10,7 +10,7 @@
 
 | ![](https://api.vaunt.dev/v1/github/entities/dyimz/contributions?format=svg&private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Dyimz&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) |
 | :-------------------------------------------------------: | :-------------------------------------------------------: |
-|  |  |
+| ![](https://api.vaunt.dev/v1/github/entities/dyimz/contributions?format=svg&private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Dyimz&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) |
 
 
 </div>
