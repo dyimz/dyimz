@@ -15,4 +15,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dyimz&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyimz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S)
+![](https://github-profile-trophy.vercel.app/?username=dyimz&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SSS,SS,S&width=50px)
